@@ -1,1 +1,1 @@
-"# Song_Chorus_Detection_using_pychorus" 
+Song Chorus Detection using PyChorus
